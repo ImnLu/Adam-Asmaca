@@ -1,1 +1,1 @@
-Adam_Asmaca
+C# dilinde yazdığım temel bir adam asmaca oyunu.
