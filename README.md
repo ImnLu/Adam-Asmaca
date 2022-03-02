@@ -1,1 +1,1 @@
-C# dilinde yazdığım temel bir adam asmaca oyunu.
+C# dilinde yazdığım adam asmaca oyunu.
